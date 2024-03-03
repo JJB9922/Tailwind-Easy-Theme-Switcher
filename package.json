@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-easy-themer",
+  "name": "tailwind-easy-theme-switcher",
   "version": "1.0.0",
   "description": "A lightweight library for dark/light mode switching that integrates with a Tailwind / React / Typescript workflow",
   "main": "./src/ThemeToggle.tsx",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JJB9922/Tailwind-Easy-Themer.git"
+    "url": "git+https://github.com/JJB9922/Tailwind-Easy-Theme-Switcher.git"
   },
   "keywords": [
     "Tailwind",
@@ -22,7 +22,7 @@
   "author": "JJB9922",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JJB9922/Tailwind-Easy-Themer/issues"
+    "url": "https://github.com/JJB9922/Tailwind-Easy-Theme-Switcher/issues"
   },
-  "homepage": "https://github.com/JJB9922/Tailwind-Easy-Themer#readme"
+  "homepage": "https://github.com/JJB9922/Tailwind-Easy-Theme-Switcher#readme"
 }

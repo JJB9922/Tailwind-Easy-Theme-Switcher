@@ -1,4 +1,4 @@
-# Tailwind-Easy-Themer
+# Tailwind-Easy-Theme-Switcher
 
 A lightweight library for dark/light mode switching that integrates with a Tailwind / React / Typescript workflow.
 
@@ -14,7 +14,7 @@ If you're using NPM:
 ```npm install tailwind-easy-themer```
 
 ```
-import ThemeToggle from 'tailwind-easy-themer';
+import ThemeToggle from 'tailwind-easy-theme-switcher';
 
 function App() {
   return (
