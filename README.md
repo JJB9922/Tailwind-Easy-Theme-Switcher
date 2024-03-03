@@ -11,6 +11,10 @@ A lightweight library for dark/light mode switching that integrates with a Tailw
 
 ![Theme Toggler GIF](ThemeSwitcher.webm)
 
+![Light Mode](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tmrm50fsws3u8lema6po.png)
+
+![Dark Mode](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7tes0ilb3ui2yu8wkfz.png)
+
 ### Usage
 
 If you're using NPM:
