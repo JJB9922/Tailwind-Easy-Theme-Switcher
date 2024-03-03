@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/JJB9922/Tailwind-Easy-Theme-Switcher.git"
   },
+  "publishConfig": {
+    "@JJB9922:registry": "https://www.npmjs.com/package/tailwind-easy-theme-switcher"
+  },
   "keywords": [
     "Tailwind",
     "Theme",
