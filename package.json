@@ -4,7 +4,6 @@
   "description": "A lightweight library for dark/light mode switching that integrates with a Tailwind / React / Typescript workflow",
   "main": "./src/ThemeToggle.tsx",
   "scripts": {
-    "postinstall": "node ./src/PostInstall.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
