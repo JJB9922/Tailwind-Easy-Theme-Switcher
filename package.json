@@ -1,0 +1,11 @@
+{
+    "name": "tailwind-easy-themer",
+    "version": "1.0.0",
+    "scripts": {
+      "postinstall": "node ./src/modifyTailwindConfig.js"
+    },
+    "devDependencies": {
+      "fs-extra": "^10.0.0"
+    }
+  }
+  
