@@ -40,9 +40,7 @@ If not using NPM, just stick the source code in a file and see the note below.
 
 ### Important Note
 
-I've included a post-install script that *should* update your tailwind.config.ts 
-
-If it doesn't - just slide this in before the theme key:
+For this to work you have to update your tailwind.config.ts - just slide this in before the "theme: " key
 
 ```
 darkMode: 'class',
