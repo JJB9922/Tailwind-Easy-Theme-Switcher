@@ -11,7 +11,7 @@ A lightweight library for dark/light mode switching that integrates with a Tailw
 
 If you're using NPM:
 
-```npm install tailwind-easy-themer```
+```npm install tailwind-easy-theme-switcher```
 
 ```
 import ThemeToggle from 'tailwind-easy-theme-switcher';
