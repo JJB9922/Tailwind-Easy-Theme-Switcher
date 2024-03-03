@@ -1,6 +1,6 @@
 {
   "name": "tailwind-easy-theme-switcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight library for dark/light mode switching that integrates with a Tailwind / React / Typescript workflow",
   "main": "./src/ThemeToggle.tsx",
   "scripts": {
