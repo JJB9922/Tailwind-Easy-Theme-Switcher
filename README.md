@@ -9,8 +9,12 @@ A lightweight library for dark/light mode switching that integrates with a Tailw
 
 ### Usage
 
+If you're using NPM:
+
+```npm install npm install @JJB9922/tailwind-easy-themer
+
 ```
-import ThemeToggle from '@yourusername/theme-toggle';
+import ThemeToggle from '@JJB9922/tailwind-easy-themer';
 
 function App() {
   return (
@@ -29,6 +33,11 @@ E.g - when using tailwind, defaults are:
 ```
 <div class = "dark:stroke-white stroke-black" >
 ```
+
+---
+
+If not using NPM, just stick the source code in a file and see the note below.
+
 ### Important Note
 
 I've included a post-install script that *should* update your tailwind.config.ts 
