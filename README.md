@@ -1,5 +1,9 @@
 # Tailwind-Easy-Theme-Switcher
 
+
+https://www.npmjs.com/package/tailwind-easy-theme-switcher
+
+
 A lightweight library for dark/light mode switching that integrates with a Tailwind / React / Typescript workflow.
 
 
