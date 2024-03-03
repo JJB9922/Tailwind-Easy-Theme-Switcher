@@ -11,7 +11,7 @@
     "url": "https://github.com/JJB9922/Tailwind-Easy-Theme-Switcher.git"
   },
   "publishConfig": {
-    "@JJB9922:registry": "https://www.npmjs.com/package/tailwind-easy-theme-switcher"
+    "@JJB9922:registry": "https://npm.pkg.github.com/JJB9922"
   },
   "keywords": [
     "Tailwind",
